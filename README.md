@@ -1,4 +1,4 @@
-Copyright Kyra Meier (2025)
+Copyright (c) 2025 Kyra Meier
 
 * Data and content sourced from undergraduate coursework at McGill University
 * All rights and permissions reserved
