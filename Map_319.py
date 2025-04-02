@@ -43,6 +43,6 @@ ax.scatter(lon, lat, color='#650411ff', marker='*', zorder=5)
 bbox_gdf.boundary.plot(ax=ax, edgecolor='#650411ff', linewidth=2)
 
 ax.set_title("St. Jacques Majeur Diasporic Tradition", fontsize=16)
-plt.savefig("KyraMeier_319.png") # save the final map
+plt.savefig("KyraMeier_319.svg") # save the final map
 plt.show()
 
