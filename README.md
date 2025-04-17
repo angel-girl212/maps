@@ -1,8 +1,6 @@
 Copyright (c) 2025 Kyra Meier
 
 * Data and content sourced from undergraduate coursework at McGill University
-* All rights and permissions reserved
-* Note that these are geographical projects and may require installation of geopandas, shapely, matplotlib to execute
 
 ---------------------------------------------------
 
