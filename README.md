@@ -1,6 +1,6 @@
 Copyright (c) 2025 Kyra Meier
 
-* Data and content sourced from undergraduate coursework at McGill University
+* MatPlotLib fun and easy generables
 
 ---------------------------------------------------
 
@@ -13,5 +13,8 @@ Copyright (c) 2025 Kyra Meier
 **St. Jacques Majeur Diasporic Tradition**, a [PROJECT] for RELG 319 at McGill University
 
 > To view final map graphic, open KyraMeier_319.png
+
+**Interviewees: Cooling Spots Inspirations**, an [ASSET] for bway pub
+
   
   
